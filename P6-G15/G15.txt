@@ -1,0 +1,5 @@
+Ziqin Shen zshen253@wisc.edu
+Jie Wang jwang2585@wisc.edu
+Xuecheng Sun xsun299@wisc.edu
+
+We wrote all the functions together, reviewed them together, and passed the test.
